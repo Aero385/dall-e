@@ -1,0 +1,22 @@
+export const surpriseMePrompts = [
+  'A mermaid lounging on a rock in a crystal clear lagoon, digital art',
+'A surrealist painting of a whale swimming in a desert, inspired by René Magritte',
+'A sculpture of a dragon made entirely of ice, photographed against a snowy landscape',
+'A 3D-rendered cityscape with flying cars and neon lights, inspired by Blade Runner',
+'A photograph of a person wearing a gas mask in a post-apocalyptic wasteland, black and white',
+'A digital painting of a lion with a mane made entirely of flowers',
+'A still life photograph of a bowl of fruit, but the fruit is made entirely of candy',
+'An oil painting of a clownfish swimming through a field of tulips',
+'A 3D-rendered scene of a futuristic space station, with Earth in the background',
+'A photograph of a panda bear riding a skateboard, captured in mid-air',
+'A digital painting of a wolf howling at the moon, in a mystical forest setting',
+'A 3D-rendered scene of a giant robot battling a giant monster, in a futuristic city',
+'An oil painting of a peacock with feathers made entirely of diamonds',
+'A surreal digital art piece featuring an elephant with butterfly wings, in a dreamlike landscape',
+'A photograph of a person sitting on a bench in a deserted city, with a single bird flying overhead',
+'A digital painting of a unicorn with a mane made of fire, in a volcanic landscape',
+'A 3D-rendered scene of a giant octopus attacking a pirate ship, in the middle of the ocean',
+'An oil painting of a landscape with a river flowing through it, but the river is made entirely of candy',
+'A surreal digital art piece featuring a giraffe with a long neck made of tree branches, in a forest setting',
+'A photograph of a person standing on a cliff, looking out at a sunset over the ocean, with seagulls flying overhead'
+];
